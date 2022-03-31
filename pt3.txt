@@ -1,0 +1,14 @@
+Enter range of numbers: Enter number [1]: 125 is an ODD number.
+Enter number [2]: 363 is an ODD number.
+Enter number [3]: 320 is an EVEN number.
+Enter number [4]: 654 is an EVEN number.
+Enter number [5]: 7594 is an EVEN number.
+Enter number [6]: 9000 is an EVEN number.
+Enter number [7]: 1223 is an ODD number.
+Enter number [8]: 44553 is an ODD number.
+Enter number [9]: 467944 is an EVEN number.
+Enter number [10]: 20003 is an ODD number.
+Enter number [11]: 497932 is an EVEN number.
+Enter number [12]: 30043 is an ODD number.
+Enter number [13]: 10356 is an EVEN number.
+Try again [y/n]: 
